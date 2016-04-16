@@ -1,4 +1,4 @@
-default: p
+default: oh
 
-p:
+oh:
 	python3 main.py oh_

@@ -1,0 +1,33 @@
+{
+  "win-both": {
+    "desert mole": 1,
+    "freedom beagle": 1,
+    "freedom gecko": 1,
+    "frost rat": 1,
+    "green octopus": 1,
+    "humble cow": 1,
+    "ice beagle": 1,
+    "red wasp": 1,
+    "street frog": 1
+  },
+  "win-post": {
+    "beagle": 2,
+    "cow": 1,
+    "frog": 1,
+    "gecko": 1,
+    "mole": 1,
+    "octopus": 1,
+    "rat": 1,
+    "wasp": 1
+  },
+  "win-pre": {
+    "desert": 1,
+    "freedom": 2,
+    "frost": 1,
+    "green": 1,
+    "humble": 1,
+    "ice": 1,
+    "red": 1,
+    "street": 1
+  }
+}
