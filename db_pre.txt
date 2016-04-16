@@ -1,0 +1,1 @@
+{"huge\n": 1, "brave\n": 1, "desert\n": 1, "ice\n": 1, "rainbow\n": 1, "jungle\n": 1, "fire\n": 2, "dirty\n": 2}

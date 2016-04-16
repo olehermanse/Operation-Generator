@@ -1,0 +1,1 @@
+{"reindeer\n": 1, "raccoon\n": 1, "tortoise\n": 1, "centipede\n": 1, "mule\n": 1, "swan\n": 1, "peacock\n": 1, "chihuahua\n": 1, "wasp\n": 1, "buffalo\n": 1}

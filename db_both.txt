@@ -1,0 +1,1 @@
+{"ice reindeer\n": 1, "dirty centipede\n": 1, "huge buffalo\n": 1, "dirty peacock\n": 1, "fire swan\n": 1, "desert mule\n": 1, "brave wasp\n": 1, "fire chihuahua\n": 1, "jungle raccoon\n": 1, "rainbow tortoise\n": 1}
